@@ -4,7 +4,8 @@
   "description": "API desenvolvida como conclusão do módulo Backend no programa Explorer da Rocketseat",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./src/server.js",
+    "dev": ""
   },
   "author": "Viviane Martini",
   "license": "ISC",
