@@ -6,6 +6,7 @@ Create a Node.js application where the user can register a movie, fill in some i
 
 - Express
 - Nodemon
+- Insomnia
 
 # Diagram
 
